@@ -22,4 +22,15 @@ print("hello world") #display string
 a= "hello"
 print(a*3) #display string 3 times i.e hellohellohello 
 
+x, y, z = 2, 3, 4
+# value of x is 2, y is 3, z is 4.
 
+x+=2
+#means x=x+2
+#same for x -= 2, x *=2, x /=2.
+
+#if one vribale is initialized than it can be intialized again.
+a=4
+print(a) # display 4
+a=5
+print(a) # display 5
