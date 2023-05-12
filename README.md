@@ -1,3 +1,3 @@
-# Learn Python
+# Python
 
-Whatever I am learning will be shared here.
+Learn the python from basics to Advance.
