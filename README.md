@@ -1,3 +1,5 @@
-# Python
+# Python for Beginners
 
-Learn the python from basics to Advance.
+Learn Python from Basics to Advance.
+
+Starting with variables and operator.
